@@ -10,4 +10,4 @@
 ## Hacker News Client 앱 적용 스택
 - HackerNews REST API 사용
 - Tailwindcss 사용
-- 비동기화가 아닌 동기화로 작업
+- 비동기화가 아닌 동기화로 작업 
